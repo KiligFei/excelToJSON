@@ -1,0 +1,21 @@
+
+# dependencies
+**/node_modules
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+/coverage
+.idea
+dist.zip
+
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
+
+build
+dist
+/.scannerwork
+run.sh
